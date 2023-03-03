@@ -1,0 +1,39 @@
+.imgBlock {
+    height: 50px;
+    width: 50px;
+}
+
+.imgBlock2{
+    height: 50px;
+    width: 50px;
+    left: 5px;
+}
+
+.textSpacing {
+    margin: 0px 0px;
+}
+
+.textSize {
+    font-size: 13px;
+}
+
+.buttonSpacing{
+    margin: 10px 13px;
+}
+
+.chatColor{
+    background-color: #d0d5db;
+}
+
+.chatColor2{
+    background-color: #4192f2;
+    color: #fff;
+}
+.chatMessages {
+    overflow-y: scroll;
+    max-height: 350px;
+    min-height: 350px;
+    overflow-x: clip;
+    margin-left: 1%;
+    margin-top: 8px;
+}
